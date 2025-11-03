@@ -1,1 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b18dcab-07de-4e9c-a77e-cb5b5e95c2fa" />
+TUGAS BILANGAN GANJIL GENAP
+<img width="917" height="531" alt="image" src="https://github.com/user-attachments/assets/60d614ef-3d96-4ac0-ab3c-6b13fdc2ca7f" />
+disini saya menggunakan operator modulus, karena modulus berfungsi untuk menghitung sisa pembagian dari bilangan. Di dalam case ini saya menggunakan 2 untuk menentukan ganjil atau genap, jika bilangan habis terbagi oleh 2, maka bilangan tersebut adalah bilangan genap, tapi jika bilangan tersebut menyisakan angka, maka bilangan tersebut adalah ganjil. Disini saya juga menggunakan if else karena logika if else sangat mudah di gunakan dan simple.
